@@ -1,4 +1,5 @@
 # LinkIt7697 Bit for BlocklyDuino
+* 2020/02/17 補全陣列積木
 簡要說明
 * 本擴充做為測試用途，有興趣的朋友請自行取用，使用到的相關程式庫版權歸原作者所有。
 * 主要針對使用LinkIt7697，並結合7697:bit breakout 安裝在MoonCar 上的應用，適合想要使用BlocklyDuino 來撰寫程式，控制MoonCar 的使用者。
